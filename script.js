@@ -4,7 +4,7 @@
 const CONFIG = {
   // ลิงก์เข้าร่วมกลุ่มทดสอบ (Google Group)
   // ตัวอย่าง: "https://groups.google.com/g/gck-testers"
-  googleGroupUrl: "https://groups.google.com/g/REPLACE-WITH-YOUR-GROUP",
+  googleGroupUrl: "https://groups.google.com/g/gckaplication",
 
   // ลิงก์ทดสอบบน Google Play (Opt-in / Become a tester)
   // ตัวอย่าง: "https://play.google.com/apps/testing/com.gck.app"
