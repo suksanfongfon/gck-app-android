@@ -1,6 +1,6 @@
-# GCK Application — เว็บนำเสนอแอป Android & เข้าร่วมทดสอบ
+# GCK Mobile App — เว็บนำเสนอแอป Android & เข้าร่วมทดสอบ
 
-เว็บไซต์ landing page แบบ static (HTML/CSS/JS ล้วน) สำหรับนำเสนอแอป **GCK Application**
+เว็บไซต์ landing page แบบ static (HTML/CSS/JS ล้วน) สำหรับนำเสนอแอป **GCK Mobile App**
 พร้อมปุ่มเข้าร่วมทดสอบผ่าน **Google Group** และลิงก์ทดสอบบน **Google Play**
 
 ## 📁 โครงสร้างไฟล์
@@ -38,7 +38,7 @@ const CONFIG = {
    ```bash
    git init
    git add .
-   git commit -m "Initial GCK Application landing page"
+   git commit -m "Initial GCK Mobile App landing page"
    git branch -M main
    git remote add origin https://github.com/<ชื่อผู้ใช้>/<ชื่อ-repo>.git
    git push -u origin main
